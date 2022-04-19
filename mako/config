@@ -1,0 +1,31 @@
+markup=1
+actions=1
+
+# Format
+font=FiraCode Nerd Font Mono 10
+border-color=#c896d4
+border-size=4
+width=400
+height=200
+padding=8
+background-color=#1b1c1e
+text-color=#ffffff
+format=<b>%s</b> <span color="#93a1a1">(%a)</span>\n%b
+
+default-timeout=2000
+max-visible=3
+anchor=bottom-right
+
+# Hidden format
+[hidden]
+format=Hidden: %h [%t]
+
+[category=mpd]
+default-timeout=1000
+group-by=category
+
+[app-name=playerctl]
+max-icon-size=96
+
+[app-name=clementine]
+max-icon-size=96

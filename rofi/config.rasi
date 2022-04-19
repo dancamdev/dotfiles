@@ -1,0 +1,10 @@
+configuration {
+    display-window: "Window";
+    display-drun: "Search";
+}
+
+@theme "nordic"
+
+listview {
+    lines: 10;
+}

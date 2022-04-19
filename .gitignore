@@ -1,0 +1,27 @@
+# Unmodified dotfiles.
+# no need to commit those.
+Android Open Source Project/
+BraveSoftware/
+chromium/
+Code - Insiders/
+dconf/
+flutter/
+Google/
+gtk-3.0/
+htop/
+JetBrains/
+kde.org/
+menus/
+pulse/
+yay/
+
+baloofileinformationrc
+code-flags.conf
+dolphinrc
+kconf_updaterc
+kdeglobals
+kiorc
+mimeapps.list
+pavucontrol.ini
+trashrc
+
